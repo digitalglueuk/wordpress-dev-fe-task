@@ -51,7 +51,8 @@ If you're not familiar with FlyntWP but would like to learn more about it, you c
 
 This resource provides valuable information to help you get started with FlyntWP and explore its features.
 
-
+### Submission
+Simply create a public Git repository on GitHub, Bitbucket, or GitLab. Then push your work to it and send us the link.
 
 ---
 
@@ -72,6 +73,9 @@ You will review the following three websites:
 
 ### What We Expect
 We expect you to deliver a document with your insights and suggestions for each of the three websites. This document should provide a clear analysis of design strengths and weaknesses and offer constructive feedback for improvement.
+
+### Submission
+Simply create a Google Doc file and send us the link.
 
 ---
 
