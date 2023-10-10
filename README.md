@@ -81,7 +81,7 @@ Simply create a Google Doc file and send us the link.
 
 Thank you for participating in our web developer assessment. We look forward to reviewing your work and discussing your approach during our follow-up discussions.
 
-If you have any questions or need further assistance, please feel free to contact us at hello@digitalglue.agency.
+If you have any questions or need further assistance, please feel free to contact us at fabiano@digitalglue.agency.
 
 We appreciate your interest in our web developer assessment and look forward to your participation.
 
